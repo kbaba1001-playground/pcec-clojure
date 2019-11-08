@@ -6,7 +6,7 @@ In this site, you are able to buy PC parts: CPU, RAM, SSD, etc.
 
 ## Database Design
 
-![ER](https://storage.googleapis.com/kbaba1001-private/public/pcec-erd.png)
+![ER](https://user-images.githubusercontent.com/1624680/68102843-cc64ce80-ff17-11e9-9023-908f4b026ac3.png)
 
 ## Stracture
 
